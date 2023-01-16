@@ -1,4 +1,4 @@
-# Basic User Stories
+# Example of Basic User Stories
 ![Screenshot_55](https://user-images.githubusercontent.com/122814835/212768176-7db7783a-473a-44ca-92a8-c7ecde7cfd8d.png)
 ![Screenshot_56](https://user-images.githubusercontent.com/122814835/212768182-7239c52f-f935-417e-9faf-58d84db52b27.png)
 ![Screenshot_57](https://user-images.githubusercontent.com/122814835/212768184-e9e7731f-8a23-4b06-b61e-d6bb42fd397f.png)
